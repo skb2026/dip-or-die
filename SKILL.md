@@ -1,3 +1,14 @@
+---
+name: dip_or_die
+version: 0.1.0
+author: skb
+category: finance
+description: to buy the dip or not
+tags: [期权, 抄底, options, dip, 风控, scale-out, theta, IV]
+disclaimer: Not financial advice. Use at your own risk.
+---
+
+
 # Dip or Die
 ### *Either you buy the right dip, or the dip buries you.*
 
