@@ -104,12 +104,6 @@ disclaimer: Not financial advice. Use at your own risk.
 
 ---
 
-## 🏆 元规则（一句话总结所有规则）
-
-> **The first rule of trading: don't lose money. The second rule: don't forget the first rule.** —— Buffett（虽然他说的是投资，但对交易更适用）
-
-
-
 ## 实战篇：Market Wizards 50 条 精简
 
 > Jack Schwager 30 年访谈了 60+ 位顶级交易员（《Market Wizards》5 本系列, 1989-2020）。
@@ -164,6 +158,7 @@ Nokia / Sears / Lehman / WeWork / 乐视 / 康得新 是分母。
 只有运气没有纪律，先靠运气暴富，再靠运气清零。
 
 ---
+<br><br><br><br><br>
 
 ## 附录 B：Trader's Journal
 
@@ -180,15 +175,6 @@ Nokia / Sears / Lehman / WeWork / 乐视 / 康得新 是分母。
 数据会告诉你真敌人是市场还是自己。
 
 100 笔后扔进 Excel，几个透视表就把你的真实段位画出来。(太吓人了。)
-
----
-
-## 附录 C：开盘前 3 问
-
-1. 我今天要做什么？（具体计划，不是"看机会"）
-2. 如果今天不交易，会损失什么？
-3. 昨天有没有违反规则？（有 → 今天不交易，先复盘）
-
 ---
 
 ## 附录 D：科班指标速查
@@ -308,7 +294,7 @@ $$f^* = p - \frac{1-p}{b}$$
 
 **VaR（Value at Risk）** —— JP Morgan 1990s
 
-$\text{VaR}_{95\%}$ = "95% 置信度下，未来 1 天最多亏多少"。机构风控标配。问题：5% 极端尾部不管 → LTCM 死法。后来出现 **CVaR / Expected Shortfall（ES）**：只看那 5% 极端情况的平均亏损。
+$\text{VaR}_{0.95}$ = "95% 置信度下，未来 1 天最多亏多少"。机构风控标配。问题：5% 极端尾部不管 → LTCM 死法。后来出现 **CVaR / Expected Shortfall（ES）**：只看那 5% 极端情况的平均亏损。
 
 ---
 
@@ -370,8 +356,6 @@ $$f = k \times f^*, \quad k \in [0.25, 0.5]$$
 
 $$R_p = \alpha + \beta \times R_{\text{市场}} + \epsilon$$
 
-$\beta$ = 你有多少仓位跟着大盘走（1.0 = 跟大盘等波动）；$\alpha$ = 扣掉市场贡献后**真正属于你技能的超额**。牛市赚钱但 α 为负 = 你的技能在拖累表现。
+$\beta$ = 你有多少仓位跟着大盘走（1.0 = 跟大盘等波动）；α = 扣掉市场贡献后**真正属于你技能的超额**。牛市赚钱但 α 为负 = 你的技能在拖累表现。ϵ = 既不是你的技能也不是大盘的——运气、随机噪音、模型缺失的变量。
 
-**行为金融（Kahneman/Tversky）缺口：**
-Prospect Theory（亏 1 块的痛 > 赚 2 块的爽）→ 解释 Disposition Effect（过早卖赢家/过晚卖输家）→ 解释为什么 R 比系统建立不起来。理论来自 *Thinking, Fast and Slow*，交易应用来自 Mark Douglas *Trading in the Zone*。
 
