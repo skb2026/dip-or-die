@@ -117,12 +117,14 @@ disclaimer: Not financial advice. Use at your own risk.
 5. **仓位大到让你睡不着 → 它就太大了。** —— Marty Schwartz。止损做不到，往往不是心态问题，是仓位问题。
 8. **极少数时刻 be a pig.** —— Druckenmiller: "It takes courage to be a pig." 平时小仓，等几年一次的非对称机会才上重仓。
 9. **Position size 是最大的 alpha 来源。** —— Tudor Jones。不是选股不是择时——是"对的票仓位够大，错的票仓位够小"。
+---
 
 14. **Strong views, no ego.** —— Druckenmiller。最高确信 + 零自尊。下重注，但翻面零阻力。
-15. 不要爱上一只票。 —— Peter Lynch: "Know what you own, and know why you own it. But never fall in love with it."
+15. **不要爱上一只票。** —— Peter Lynch: "Know what you own, and know why you own it. But never fall in love with it."
 18. **亏到怀疑人生时 → 休息，降低仓位。** —— Schwartz / Marcus / Lipschutz。不是报复性交易。散户反应正好相反。
 23. **Trading Journal 是标配。** —— Schwartz / Minervini / 几乎所有人。统计：系统单胜率 vs 冲动单胜率。
 26. **金字塔加仓 ≠ 追高。** —— Livermore / 海龟。加仓时仓位减半 + 止损上移。总风险不变。
+---
 
 34. **Markets create reality（反身性）。** —— Soros: "Markets are not just discounting information. Markets create reality." 涨了 → 融资变易 → 业绩真好 → 继续涨。
 36. **别把牛市当聪明。** —— "Don't confuse a bull market with brains." 潮水退了才知道谁在裸泳。
@@ -134,7 +136,7 @@ disclaimer: Not financial advice. Use at your own risk.
 
 > 配套阅读：Schwager 系列 5 本 + 《Reminiscences of a Stock Operator》(Lefèvre/Livermore) + 《Way of the Turtle》(Faith) + 《Trading in the Zone》(Douglas) + 《The Black Swan》(Taleb)。
 
----
+
 
 ## 附录 A：skb's Code
 
