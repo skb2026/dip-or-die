@@ -110,75 +110,35 @@ disclaimer: Not financial advice. Use at your own risk.
 
 
 
-## 实战篇：Market Wizards 50 条
+## 实战篇：Market Wizards 50 条 精简
 
 > Jack Schwager 30 年访谈了 60+ 位顶级交易员（《Market Wizards》5 本系列, 1989-2020）。
 > 策略千差万别，元规则高度一致——这 50 条是统计意义上的共识，不是个人观点。
 > 上面 20 条是骨架，这 50 条是肌肉。
 
 ### 一、风控（10 条）
-
-1. **Risk management is the only non-negotiable.** —— 60+ 位大佬被问"什么最重要"答案高度一致，不是策略不是分析不是信息——是风控。
-2. **入场前就知道出场点。** —— Marty Schwartz: "Before I take a position, I always know where I'm getting out." 没有止损位 → 不下单。
-3. **单笔风险 ≤ 总资金 1-2%。** —— Tudor Jones / 海龟 / 几乎所有人。本金极小可上调到 5%，但仓位数相应减少。
-4. **防守先于进攻。** —— Tudor Jones: "The most important rule is to play great defense, not great offense."
 5. **仓位大到让你睡不着 → 它就太大了。** —— Marty Schwartz。止损做不到，往往不是心态问题，是仓位问题。
-6. **风险/回报比 ≥ 3:1 才下单。** —— Monroe Trout / Lipschutz / Linda Raschke。不是 2:1，3:1 才是大佬常态。
-7. **加仓只加 winner，从不加 loser。** —— Marcus / Tudor Jones / Lipschutz。Pyramid up，仓位逐笔减半，止损同步上移。
 8. **极少数时刻 be a pig.** —— Druckenmiller: "It takes courage to be a pig." 平时小仓，等几年一次的非对称机会才上重仓。
 9. **Position size 是最大的 alpha 来源。** —— Tudor Jones。不是选股不是择时——是"对的票仓位够大，错的票仓位够小"。
-10. **评估自己看 Sharpe / Sortino / 最大回撤。** —— Edward Thorp: "It's not about the return, it's about the return per unit of risk."
 
 ### 二、心态（10 条）
-
-11. **大部分大佬都爆仓过。** —— Tudor Jones / Druckenmiller / Schwartz / Marcus / Lipschutz……成败在 failure-to-lesson 转化率。
-12. **胜率普遍 40-55%。** —— Tudor Jones 自述胜率 < 50%。赚钱靠"赢得大输得小"，不是靠"次次赢"。
-13. **错了立刻翻面，不要找理由。** —— Soros: "I'm only rich because I know when I'm wrong."
 14. **Strong views, no ego.** —— Druckenmiller。最高确信 + 零自尊。下重注，但翻面零阻力。
-15. **进场前就找最反对的论点。** —— Ray Dalio: "Be the dumbest one in the room." 找不到反对意见 → 研究还不够。
-16. **不要爱上一只票。** —— Peter Lynch: "Know what you own, and know why you own it. But never fall in love with it."
-17. **Don't marry a position.** —— 仓位是工具不是配偶。能跟它结婚，但必须随时能离婚。
+15. 不要爱上一只票。 —— Peter Lynch: "Know what you own, and know why you own it. But never fall in love with it."
 18. **亏到怀疑人生时 → 休息，降低仓位。** —— Schwartz / Marcus / Lipschutz。不是报复性交易。散户反应正好相反。
-19. **痴迷市场 ≠ 频繁交易。** —— Druckenmiller: "I've made very few trades. The successful ones I made big."
-20. **成功是最大的敌人。** —— Schwager: "The biggest danger to a successful trader is success itself." 最大回撤通常紧跟最大盈利。
 
 ### 三、系统（10 条）
-
-21. **没有 Holy Grail。** —— Schwager: "The best traders all use methods that suit their personality." 短线性格学长线 = 死。
-22. **写下计划再下单。** —— Linda Raschke。入场理由 / 目标位 / 止损位 / 仓位 / 持有期。没写就是冲动单。
 23. **Trading Journal 是标配。** —— Schwartz / Minervini / 几乎所有人。统计：系统单胜率 vs 冲动单胜率。
-24. **不预测，只反应。** —— Livermore / 海龟。If A then X, if B then Y。预测会让你死扛。
-25. **入场分批，离场分批。** —— 通用。抓不到最高最低点，但永远死不了。
 26. **金字塔加仓 ≠ 追高。** —— Livermore / 海龟。加仓时仓位减半 + 止损上移。总风险不变。
-27. **不交易的日子 = 等子弹。** —— Jim Rogers: "I just wait until there is money lying in the corner."
-28. **守规则失败 OK，破规则赢钱 NOT OK。** —— Richard Dennis / 海龟。后者会让你下次更敢破规则。
-29. **Pre-mortem before entry.** —— Klein / Kahneman 推荐。下单前写"假设这笔归零了，事后看是因为什么"。强迫大脑模拟失败。
-30. **24-hour rule before doubling down.** —— 想加仓 → 等 24 小时。还想加 → 加一半。
 
 ### 四、反共识真相（10 条）
-
-31. **顶级交易员靠纪律不靠信息。** —— Schwager: "Most market wizards do not have an information edge. They have a discipline edge."
-32. **策略千差万别，元规则高度一致。** —— 趋势/逆势/套利/量化/基本面没有共同策略，但风控/止损/不预测/加 winner/复盘/心态全部一致。
-33. **不能解释市场的"非理性"。** —— 1987 黑色星期一 / 2010 闪崩 / 2021 GME / 2022 LUNA。市场结构本身（流动性/算法/反身性）会制造非理性。
 34. **Markets create reality（反身性）。** —— Soros: "Markets are not just discounting information. Markets create reality." 涨了 → 融资变易 → 业绩真好 → 继续涨。
-35. **Markets can remain irrational longer than you can remain solvent.** —— Keynes。看对方向不代表赚钱，还要看对时间。
 36. **别把牛市当聪明。** —— "Don't confuse a bull market with brains." 潮水退了才知道谁在裸泳。
-37. **过去 10 年最赚钱的，是没下的单。** —— Schwager 反复发现。识别"不该交易"的环境比识别"该交易"的机会更值钱。
 38. **Hope is not a strategy. Fear is not a strategy.** —— 你买入时市场什么样，你就该接受什么样。
-39. **卖方策略是寡妇制造机。** —— LTCM / Optionsellers.com / 2018 XIV。"小赚大亏"模式每隔几年清零一批人。
 40. **黑天鹅一定会来，时间未知。** —— Taleb。仓位结构必须能扛住"明天就发生 -50% 单日"。
 
 ### 五、Schwager 自己的总结（10 条）
-
-41. **There is no single true path.** —— 没有唯一正解。最适合你性格 + 时间精力的方法才是好方法。
-42. **The market is not your enemy. The market is your mirror.** —— 市场是镜子，不是敌人。你看到的乱象是你内心的投影。
 43. **Trading the news? You're already late.** —— 看新闻交易？你已经晚了。
-44. **Hope is not a strategy.** —— 希望不是策略。你买入时市场什么样，你就该接受什么样。
-45. **Don't confuse a bull market with brains.** —— 别把牛市当聪明。潮水退了才知道谁在裸泳。
-46. **The trade you don't take is as important as the one you do.** —— 不下的单和下的单一样重要。
-47. **Patience is a position.** —— 耐心本身是一种持仓。空仓不是"没动作"，空仓是"等待"。
 48. **Conviction without rules is gambling.** —— 没有规则的确信只是赌博。
-49. **Volatility is opportunity. Volatility is also death.** —— 波动既是机会也是死亡。同一根蜡烛，方向不同，结果天壤之别。
 50. **The market always wins. You just want to be there when it pays.** —— 市场永远赢，你只需要在它发钱时在场。
 
 > 配套阅读：Schwager 系列 5 本 + 《Reminiscences of a Stock Operator》(Lefèvre/Livermore) + 《Way of the Turtle》(Faith) + 《Trading in the Zone》(Douglas) + 《The Black Swan》(Taleb)。
@@ -259,10 +219,6 @@ Nokia / Sears / Lehman / WeWork / 乐视 / 康得新 是分母。
 $$1R = |\text{入场价} - \text{止损价}| \times \text{股数}$$
 
 1R = 入场时定义的单笔最大可接受亏损。之后所有盈亏都用 R 衡量：止损出 = -1R，赚 2 倍止损距离 = +2R，没设止损硬扛跌穿 = -3R / -5R（破防）。
-
-1. **没有稳定 R 比 → 加仓位是加速死亡。** 系统都没成型，放大只是放大错误。
-2. **只优化 R 比不加仓位 → 永远是聪明的穷人。** 赚的是自尊不是钱。
-3. **加仓位时不重新校准心理 → 把好系统执行成烂系统。** 不是系统坏了，是你换人了。
 
 ---
 
