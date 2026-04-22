@@ -171,10 +171,15 @@ disclaimer: Not financial advice. Use at your own risk.
 ### 五、Schwager 自己的总结（5 条）
 
 41. **There is no single true path.** —— 没有唯一正解。最适合你性格 + 时间精力的方法才是好方法。
-42. **The market is not your enemy. The market is your mirror.** —— 你看到的乱象是你内心的投影。
-43. **The trade you don't take is as important as the one you do.**
-44. **Patience is a position.** —— 空仓不是"没动作"，空仓是"等待"。
-45. **The market always wins. You just want to be there when it pays.**
+42. **The market is not your enemy. The market is your mirror.** —— 市场是镜子，不是敌人。你看到的乱象是你内心的投影。
+43. **Trading the news? You're already late.** —— 看新闻交易？你已经晚了。
+44. **Hope is not a strategy.** —— 希望不是策略。你买入时市场什么样，你就该接受什么样。
+45. **Don't confuse a bull market with brains.** —— 别把牛市当聪明。潮水退了才知道谁在裸泳。
+46. **The trade you don't take is as important as the one you do.** —— 不下的单和下的单一样重要。
+47. **Patience is a position.** —— 耐心本身是一种持仓。空仓不是"没动作"，空仓是"等待"。
+48. **Conviction without rules is gambling.** —— 没有规则的确信只是赌博。
+49. **Volatility is opportunity. Volatility is also death.** —— 波动既是机会也是死亡。同一根蜡烛，方向不同，结果天壤之别。
+50. **The market always wins. You just want to be there when it pays.** —— 市场永远赢，你只需要在它发钱时在场。
 
 > 配套阅读：Schwager 系列 5 本 + 《Reminiscences of a Stock Operator》(Lefèvre/Livermore) + 《Way of the Turtle》(Faith) + 《Trading in the Zone》(Douglas) + 《The Black Swan》(Taleb)。
 
