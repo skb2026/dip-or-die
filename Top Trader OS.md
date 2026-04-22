@@ -110,11 +110,11 @@ disclaimer: Not financial advice. Use at your own risk.
 
 
 
-## 实战篇：Market Wizards 45 条
+## 实战篇：Market Wizards 50 条
 
 > Jack Schwager 30 年访谈了 60+ 位顶级交易员（《Market Wizards》5 本系列, 1989-2020）。
-> 策略千差万别，元规则高度一致——这 45 条是统计意义上的共识，不是个人观点。
-> 上面 20 条是骨架，这 45 条是肌肉。
+> 策略千差万别，元规则高度一致——这 50 条是统计意义上的共识，不是个人观点。
+> 上面 20 条是骨架，这 50 条是肌肉。
 
 ### 一、风控（10 条）
 
@@ -168,7 +168,7 @@ disclaimer: Not financial advice. Use at your own risk.
 39. **卖方策略是寡妇制造机。** —— LTCM / Optionsellers.com / 2018 XIV。"小赚大亏"模式每隔几年清零一批人。
 40. **黑天鹅一定会来，时间未知。** —— Taleb。仓位结构必须能扛住"明天就发生 -50% 单日"。
 
-### 五、Schwager 自己的总结（5 条）
+### 五、Schwager 自己的总结（10 条）
 
 41. **There is no single true path.** —— 没有唯一正解。最适合你性格 + 时间精力的方法才是好方法。
 42. **The market is not your enemy. The market is your mirror.** —— 市场是镜子，不是敌人。你看到的乱象是你内心的投影。
@@ -185,34 +185,34 @@ disclaimer: Not financial advice. Use at your own risk.
 
 ---
 
-## 附录：skb's Code
+## 附录 A：skb's Code
 
 > **非理性的市场里，有只看不见的理性的手。**
 
-### E.1 We don't sell or buy, we just allocate.
+### A.1 We don't sell or buy, we just allocate.
 
 事件视角 → 状态视角。
 单笔买卖只是 rebalance 的副产物。
 不问"买不买 XX"，只问"XX 在组合里占几 %"。
 
-### E.2 困境反转是幸存者偏差
+### A.2 困境反转是幸存者偏差
 
 Apple / Netflix / Meta 是分子。
 Nokia / Sears / Lehman / WeWork / 乐视 / 康得新 是分母。
 分母不发文，所以你只看见分子。
 
-### E.3 We come to market to make money, not to prove we're right.
+### A.3 We come to market to make money, not to prove we're right.
 
 死扛、追高、辩论持仓——证明自己对的成本，由账户支付。
 止损 = 把自尊和钱包解绑。
 
-### E.6 没有运气成不了顶级
+### A.4 没有运气成不了顶级
 
 公式：长期结果 = 纪律 × 方法 × 时代 + 关键时刻押对一两次的运气。
 没运气，方法再好只能到"不错的私募经理"。
 只有运气没有纪律，先靠运气暴富，再靠运气清零。
 
-### E.7 穷人的空仓和富人的空仓不是同一个生物
+### A.5 穷人的空仓和富人的空仓不是同一个生物
 
 富人空仓："等更好机会。"
 穷人空仓："错过 1 万就少 1 万。"
@@ -277,7 +277,7 @@ $$1R = |入场价 - 止损价| \times 股数$$
 
 **期望值（Expectancy）**
 
-$$E = p \times R_{赢} - (1-p) \times R_{亏}$$
+$$E = p \times R_{\text{赢}} - (1-p) \times R_{\text{亏}}$$
 
 > E < 0 不该交易；E > 0.3 合格；E > 0.5 优秀。
 
@@ -417,7 +417,7 @@ $$f = k \times f^*, \quad k \in [0.25, 0.5]$$
 
 ---
 
-### E-5. 这套指标完备吗？
+### E-4. 这套指标完备吗？
 
 **对主观交易员：覆盖 80%，够用。**
 **对量化对冲基金：入门级，覆盖 20–30%。**
@@ -438,7 +438,7 @@ $$f = k \times f^*, \quad k \in [0.25, 0.5]$$
 
 **② Alpha/Beta 分解**
 
-$$R_p = \alpha + \beta \times R_{市场} + \epsilon$$
+$$R_p = \alpha + \beta \times R_{\text{市场}} + \epsilon$$
 
 $\beta$ = 你有多少仓位跟着大盘走（1.0 = 跟大盘等波动）；$\alpha$ = 扣掉市场贡献后**真正属于你技能的超额**。牛市赚钱但 α 为负 = 你的技能在拖累表现。
 
@@ -447,7 +447,7 @@ Prospect Theory（亏 1 块的痛 > 赚 2 块的爽）→ 解释 Disposition Eff
 
 ---
 
-### E-6. 你想知道什么，看哪个
+### E-5. 你想知道什么，看哪个
 
 | 你想知道 | 看哪个 |
 |---------|-------|
