@@ -113,30 +113,21 @@ disclaimer: Not financial advice. Use at your own risk.
 ## 实战篇：Market Wizards 50 条 精简
 
 > Jack Schwager 30 年访谈了 60+ 位顶级交易员（《Market Wizards》5 本系列, 1989-2020）。
-> 策略千差万别，元规则高度一致——这 50 条是统计意义上的共识，不是个人观点。
-> 上面 20 条是骨架，这 50 条是肌肉。
 
-### 一、风控（10 条）
 5. **仓位大到让你睡不着 → 它就太大了。** —— Marty Schwartz。止损做不到，往往不是心态问题，是仓位问题。
 8. **极少数时刻 be a pig.** —— Druckenmiller: "It takes courage to be a pig." 平时小仓，等几年一次的非对称机会才上重仓。
 9. **Position size 是最大的 alpha 来源。** —— Tudor Jones。不是选股不是择时——是"对的票仓位够大，错的票仓位够小"。
 
-### 二、心态（10 条）
 14. **Strong views, no ego.** —— Druckenmiller。最高确信 + 零自尊。下重注，但翻面零阻力。
 15. 不要爱上一只票。 —— Peter Lynch: "Know what you own, and know why you own it. But never fall in love with it."
 18. **亏到怀疑人生时 → 休息，降低仓位。** —— Schwartz / Marcus / Lipschutz。不是报复性交易。散户反应正好相反。
-
-### 三、系统（10 条）
 23. **Trading Journal 是标配。** —— Schwartz / Minervini / 几乎所有人。统计：系统单胜率 vs 冲动单胜率。
 26. **金字塔加仓 ≠ 追高。** —— Livermore / 海龟。加仓时仓位减半 + 止损上移。总风险不变。
 
-### 四、反共识真相（10 条）
 34. **Markets create reality（反身性）。** —— Soros: "Markets are not just discounting information. Markets create reality." 涨了 → 融资变易 → 业绩真好 → 继续涨。
 36. **别把牛市当聪明。** —— "Don't confuse a bull market with brains." 潮水退了才知道谁在裸泳。
 38. **Hope is not a strategy. Fear is not a strategy.** —— 你买入时市场什么样，你就该接受什么样。
 40. **黑天鹅一定会来，时间未知。** —— Taleb。仓位结构必须能扛住"明天就发生 -50% 单日"。
-
-### 五、Schwager 自己的总结（10 条）
 43. **Trading the news? You're already late.** —— 看新闻交易？你已经晚了。
 48. **Conviction without rules is gambling.** —— 没有规则的确信只是赌博。
 50. **The market always wins. You just want to be there when it pays.** —— 市场永远赢，你只需要在它发钱时在场。
@@ -146,8 +137,6 @@ disclaimer: Not financial advice. Use at your own risk.
 ---
 
 ## 附录 A：skb's Code
-
-> **非理性的市场里，有只看不见的理性的手。**
 
 ### A.1 We don't sell or buy, we just allocate.
 
@@ -171,14 +160,6 @@ Nokia / Sears / Lehman / WeWork / 乐视 / 康得新 是分母。
 公式：长期结果 = 纪律 × 方法 × 时代 + 关键时刻押对一两次的运气。
 没运气，方法再好只能到"不错的私募经理"。
 只有运气没有纪律，先靠运气暴富，再靠运气清零。
-
-### A.5 穷人的空仓和富人的空仓不是同一个生物
-
-富人空仓："等更好机会。"
-穷人空仓："错过 1 万就少 1 万。"
-本金不够时谈耐心是耍流氓。
-策略：先用工资攒到能扛 3-5 年生活费的安全垫，再开始交易。
-
 
 ---
 
